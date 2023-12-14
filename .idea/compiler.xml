@@ -11,6 +11,7 @@
         <module name="tight_coupling" />
         <module name="Property_Injection" />
         <module name="dependencyInjection" />
+        <module name="SetterInjection" />
       </profile>
     </annotationProcessing>
   </component>
