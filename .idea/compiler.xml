@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="loose_coupling" />
         <module name="ConstructotInjection" />
-        <module name="tight_coupling" />
-        <module name="Property_Injection" />
+        <module name="InterfaceInjection" />
         <module name="dependencyInjection" />
         <module name="SetterInjection" />
+        <module name="tight_coupling" />
+        <module name="Property_Injection" />
       </profile>
     </annotationProcessing>
   </component>
