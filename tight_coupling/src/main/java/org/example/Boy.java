@@ -4,4 +4,9 @@ public class Boy  {
         Girl girl = new Girl();
         girl.chat();
     }
+    public void test(){
+       Girl girl=new Girl();
+        girl.chat();
+    }
+
 }
